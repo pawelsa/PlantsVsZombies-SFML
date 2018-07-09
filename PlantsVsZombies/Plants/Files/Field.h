@@ -1,9 +1,9 @@
 #pragma once
-#include "C:\Users\Pawel\source\repos\PlantsVsZombies\Plants\Mobs\PeaN.h"
-#include "C:\Users\Pawel\source\repos\PlantsVsZombies\Plants\Mobs\SunflowerN.h"
-#include "C:\Users\Pawel\source\repos\PlantsVsZombies\Plants\Mobs\NutN.h"
-#include "C:\Users\Pawel\source\repos\PlantsVsZombies\Plants\Mobs\PotatoN.h"
-#include "C:\Users\Pawel\source\repos\PlantsVsZombies\Plants\AdditionalTools\Dimensions.h"
+#include "PeaN.h"
+#include "SunflowerN.h"
+#include "NutN.h"
+#include "PotatoN.h"
+#include "Dimensions.h"
 
 
 class Field {

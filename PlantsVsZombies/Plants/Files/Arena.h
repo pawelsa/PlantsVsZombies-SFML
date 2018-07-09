@@ -1,15 +1,15 @@
 #pragma once
 #include <SFML/Graphics.hpp>
-#include "C:\Users\Pawel\source\repos\PlantsVsZombies\Plants\AdditionalTools\Dimensions.h"
-#include "C:\Users\Pawel\source\repos\PlantsVsZombies\Plants\AdditionalTools\CollisionDetector.h"
-#include "C:\Users\Pawel\source\repos\PlantsVsZombies\Plants\AdditionalObjects\Sun.h"
-#include "C:\Users\Pawel\source\repos\PlantsVsZombies\Plants\AdditionalObjects\Field.h"
-#include "C:\Users\Pawel\source\repos\PlantsVsZombies\Plants\AdditionalTools\Textures.h"
-#include "C:\Users\Pawel\source\repos\PlantsVsZombies\Plants\Mobs\Mob.h"
-#include "C:\Users\Pawel\source\repos\PlantsVsZombies\Plants\Mobs\NutN.h"
-#include "C:\Users\Pawel\source\repos\PlantsVsZombies\Plants\Mobs\PeaN.h"
-#include "C:\Users\Pawel\source\repos\PlantsVsZombies\Plants\Mobs\PotatoN.h"
-#include "C:\Users\Pawel\source\repos\PlantsVsZombies\Plants\Mobs\SunflowerN.h"
+#include "Dimensions.h"
+#include "CollisionDetector.h"
+#include "Sun.h"
+#include "Field.h"
+#include "Textures.h"
+#include "Mob.h"
+#include "NutN.h"
+#include "PeaN.h"
+#include "PotatoN.h"
+#include "SunflowerN.h"
 
 extern Textures *allTextures;
 

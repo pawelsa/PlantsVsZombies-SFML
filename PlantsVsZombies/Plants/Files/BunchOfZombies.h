@@ -1,5 +1,5 @@
 #pragma once
-#include "Mobs/Zombie.h"
+#include "Zombie.h"
 #include <ctime>
 
 

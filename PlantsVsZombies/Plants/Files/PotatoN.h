@@ -1,6 +1,6 @@
 #pragma once
 #include "Mob.h"
-#include "C:\Users\Pawel\source\repos\PlantsVsZombies\Plants\AdditionalTools\Textures.h"
+#include "Textures.h"
 extern Textures *allTextures;
 
 

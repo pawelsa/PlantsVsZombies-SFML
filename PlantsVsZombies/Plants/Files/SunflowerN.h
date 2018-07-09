@@ -1,7 +1,7 @@
 #pragma once
 #include "Mob.h"
-#include "C:\Users\Pawel\source\repos\PlantsVsZombies\Plants\AdditionalTools\Textures.h"
-#include "C:\Users\Pawel\source\repos\PlantsVsZombies\Plants\AdditionalObjects\Sun.h"
+#include "Textures.h"
+#include "Sun.h"
 
 extern Textures *allTextures;
 

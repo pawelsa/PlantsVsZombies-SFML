@@ -1,11 +1,11 @@
 #pragma once
 #include <SFML/Graphics.hpp>
 #include <ctime>
-#include "AdditionalObjects/Field.h"
-#include "Mobs/Mob.h"
-#include "AdditionalTools/Textures.h"
-#include "AdditionalObjects/LoadingRectangular.h"
-#include "AdditionalObjects/Sun.h"
+#include "Field.h"
+#include "Mob.h"
+#include "Textures.h"
+#include "LoadingRectangular.h"
+#include "Sun.h"
 
 extern Textures *allTextures;
 

@@ -1,6 +1,6 @@
 #pragma once
 #include <SFML\Graphics.hpp>
-#include "C:\Users\Pawel\source\repos\PlantsVsZombies\Plants\AdditionalTools\Textures.h"
+#include "Textures.h"
 
 extern sf::RenderWindow window;
 extern Textures *allTextures;

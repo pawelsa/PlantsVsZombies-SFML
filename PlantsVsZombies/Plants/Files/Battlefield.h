@@ -1,9 +1,10 @@
 #pragma once
-#include "AdditionalTools\Dimensions.h"
-#include "MobGroups\Arena.h"
-#include "MobGroups\BunchOfZombies.h"
-#include "AdditionalTools\CollisionDetector.h"
-#include "C:\Users\Pawel\source\repos\PlantsVsZombies\Plants\AdditionalObjects\ChooseCharacter.h"
+#include "Dimensions.h"
+#include "Arena.h"
+#include "BunchOfZombies.h"
+#include "CollisionDetector.h"
+#include "ChooseCharacter.h"
+#include "Sun.h"
 
 class Battlefield {
 

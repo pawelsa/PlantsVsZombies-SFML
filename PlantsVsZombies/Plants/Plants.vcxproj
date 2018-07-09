@@ -122,24 +122,24 @@
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="AdditionalObjects\ChooseCharacter.h" />
-    <ClInclude Include="AdditionalObjects\Field.h" />
-    <ClInclude Include="AdditionalObjects\LoadingRectangular.h" />
-    <ClInclude Include="AdditionalObjects\Sun.h" />
-    <ClInclude Include="AdditionalTools\CollisionDetector.h" />
-    <ClInclude Include="AdditionalTools\Dimensions.h" />
-    <ClInclude Include="AdditionalTools\Textures.h" />
-    <ClInclude Include="Main\Battlefield.h" />
-    <ClInclude Include="Main\GameLoop.h" />
-    <ClInclude Include="MobGroups\Arena.h" />
-    <ClInclude Include="MobGroups\BunchOfZombies.h" />
-    <ClInclude Include="Mobs\Mob.h" />
-    <ClInclude Include="Mobs\NutN.h" />
-    <ClInclude Include="Mobs\PeaBullet.h" />
-    <ClInclude Include="Mobs\PeaN.h" />
-    <ClInclude Include="Mobs\PotatoN.h" />
-    <ClInclude Include="Mobs\SunflowerN.h" />
-    <ClInclude Include="Mobs\Zombie.h" />
+    <ClInclude Include="Files\Arena.h" />
+    <ClInclude Include="Files\Battlefield.h" />
+    <ClInclude Include="Files\BunchOfZombies.h" />
+    <ClInclude Include="Files\ChooseCharacter.h" />
+    <ClInclude Include="Files\CollisionDetector.h" />
+    <ClInclude Include="Files\Dimensions.h" />
+    <ClInclude Include="Files\Field.h" />
+    <ClInclude Include="Files\GameLoop.h" />
+    <ClInclude Include="Files\LoadingRectangular.h" />
+    <ClInclude Include="Files\Mob.h" />
+    <ClInclude Include="Files\NutN.h" />
+    <ClInclude Include="Files\PeaBullet.h" />
+    <ClInclude Include="Files\PeaN.h" />
+    <ClInclude Include="Files\PotatoN.h" />
+    <ClInclude Include="Files\Sun.h" />
+    <ClInclude Include="Files\SunflowerN.h" />
+    <ClInclude Include="Files\Textures.h" />
+    <ClInclude Include="Files\Zombie.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -1,7 +1,7 @@
 #pragma once
 #include <SFML/Graphics.hpp>
-#include "C:\Users\Pawel\source\repos\PlantsVsZombies\Plants\AdditionalTools\Dimensions.h"
-#include "C:\Users\Pawel\source\repos\PlantsVsZombies\Plants\AdditionalTools\Textures.h"
+#include "Dimensions.h"
+#include "Textures.h"
 
 extern Textures *allTextures;
 

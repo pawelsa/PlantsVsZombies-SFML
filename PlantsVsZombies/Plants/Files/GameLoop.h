@@ -1,9 +1,9 @@
 #pragma once
 #include <SFML\Graphics.hpp>
-#include "AdditionalTools\Textures.h"
+#include "Files/Textures.h"
 Textures *allTextures = new Textures();
 #include "Battlefield.h"
-#include "AdditionalTools\Dimensions.h"
+#include "Files/Dimensions.h"
 
 class GameLoop {
 	
