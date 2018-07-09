@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Pliki źródłowe">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Pliki nagłówkowe">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Pliki zasobów">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Pliki nagłówkowe\Mobs">
+      <UniqueIdentifier>{4c8386f5-11cd-4e17-8bf1-9695d278fa45}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki nagłówkowe\Main">
+      <UniqueIdentifier>{60633c70-88b8-446b-b019-e4d02145865a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki nagłówkowe\AdditionalTools">
+      <UniqueIdentifier>{0462fbc0-d714-4802-a17c-376228a41856}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki nagłówkowe\AdditionalObjects">
+      <UniqueIdentifier>{80e8eaa9-7581-4649-b8a5-da545cf2ba2e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki nagłówkowe\MobGroups">
+      <UniqueIdentifier>{311e41d2-b5fd-47c5-a38c-0e22209fec3c}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Mobs\Mob.h">
+      <Filter>Pliki nagłówkowe\Mobs</Filter>
+    </ClInclude>
+    <ClInclude Include="Mobs\NutN.h">
+      <Filter>Pliki nagłówkowe\Mobs</Filter>
+    </ClInclude>
+    <ClInclude Include="Mobs\PeaBullet.h">
+      <Filter>Pliki nagłówkowe\Mobs</Filter>
+    </ClInclude>
+    <ClInclude Include="Mobs\PeaN.h">
+      <Filter>Pliki nagłówkowe\Mobs</Filter>
+    </ClInclude>
+    <ClInclude Include="Mobs\PotatoN.h">
+      <Filter>Pliki nagłówkowe\Mobs</Filter>
+    </ClInclude>
+    <ClInclude Include="Mobs\SunflowerN.h">
+      <Filter>Pliki nagłówkowe\Mobs</Filter>
+    </ClInclude>
+    <ClInclude Include="Mobs\Zombie.h">
+      <Filter>Pliki nagłówkowe\Mobs</Filter>
+    </ClInclude>
+    <ClInclude Include="Main\Battlefield.h">
+      <Filter>Pliki nagłówkowe\Main</Filter>
+    </ClInclude>
+    <ClInclude Include="Main\GameLoop.h">
+      <Filter>Pliki nagłówkowe\Main</Filter>
+    </ClInclude>
+    <ClInclude Include="AdditionalTools\CollisionDetector.h">
+      <Filter>Pliki nagłówkowe\AdditionalTools</Filter>
+    </ClInclude>
+    <ClInclude Include="AdditionalTools\Dimensions.h">
+      <Filter>Pliki nagłówkowe\AdditionalTools</Filter>
+    </ClInclude>
+    <ClInclude Include="AdditionalTools\Textures.h">
+      <Filter>Pliki nagłówkowe\AdditionalTools</Filter>
+    </ClInclude>
+    <ClInclude Include="AdditionalObjects\Field.h">
+      <Filter>Pliki nagłówkowe\AdditionalObjects</Filter>
+    </ClInclude>
+    <ClInclude Include="AdditionalObjects\Sun.h">
+      <Filter>Pliki nagłówkowe\AdditionalObjects</Filter>
+    </ClInclude>
+    <ClInclude Include="MobGroups\Arena.h">
+      <Filter>Pliki nagłówkowe\MobGroups</Filter>
+    </ClInclude>
+    <ClInclude Include="MobGroups\BunchOfZombies.h">
+      <Filter>Pliki nagłówkowe\MobGroups</Filter>
+    </ClInclude>
+    <ClInclude Include="AdditionalObjects\LoadingRectangular.h">
+      <Filter>Pliki nagłówkowe\AdditionalObjects</Filter>
+    </ClInclude>
+    <ClInclude Include="AdditionalObjects\ChooseCharacter.h">
+      <Filter>Pliki nagłówkowe\Main</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
